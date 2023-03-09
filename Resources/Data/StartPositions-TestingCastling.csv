@@ -1,0 +1,7 @@
+﻿Piece,Color,Square
+King,White,E1
+Rook,White,H1
+Rook,White,A1
+King,Black,E8
+Rook,Black,H8
+Rook,Black,A8

@@ -1,0 +1,5 @@
+Piece,Colour,Square
+Pawn,White,G2
+King,White,E1
+King,Black,E8
+Pawn,Black,C7
